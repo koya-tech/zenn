@@ -11,8 +11,8 @@ published: false
 よろしくお願いします。
 
 # 実行環境
-・windows11
-・
+・OS : windows11
+・Docker version : 20.10.24
 
 # TL;DR
 【方法】Docker というコンテナ技術を使いましょう
