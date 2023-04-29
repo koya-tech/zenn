@@ -96,6 +96,9 @@ WSL1とWSL2があります。詳細は省きますが、簡単に言うと
 
 WSL2をインストールすることで、Linux用のカーネルを装備でき、ハイパーバイザー上で動くOSの一つをLinuxにすることができます。
 これでwindowsPCでも、前提である「DockerはLinux上で動く」ための条件を満たしましたね。
+:::message
+WSL2では、デフォルトでubuntuもインストールされます
+:::
 
 ![](/images/9ba0df8ca3e4d0/hyper-container.png =500x)
 
